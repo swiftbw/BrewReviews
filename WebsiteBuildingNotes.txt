@@ -1,0 +1,11 @@
+httpd is the basic Apache website app.
+
+to start httpd:
+sudo /usr/sbin/apachectl start 
+
+to stop httpd:
+sudo /usr/sbin/apachectl stop
+
+to restart httpd:
+sudo /usr/sbin/apachectl restart 
+
