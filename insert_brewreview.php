@@ -1,3 +1,10 @@
+ <?php
+  if($_POST['submit'] == "Submit")
+  {
+    $brewname = $_POST['brewname'];
+  }
+?>
+
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 <html> <head>
 <title></title>
